@@ -1,0 +1,6 @@
+@Coin_Slot_Machine_HostAddress = http://localhost:5187
+
+GET {{Coin_Slot_Machine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
